@@ -1,7 +1,6 @@
 Doclab - home
 
-This is a madical html template made by codewithsadee
-
+This is a madical html template made by Ayyan Ali.
 
 
 #---------- HEADER ----------#
